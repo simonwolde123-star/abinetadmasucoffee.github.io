@@ -166,8 +166,8 @@ python3 -m http.server 8000
 <div align="center">
 
 **Simon Wolde Balango**
-*Computer Engineering Student*
-University of Genova, Imperia Campus, Italy
+*Computer Engineer*
+ Italy
 
 </div>
 
